@@ -41,3 +41,6 @@ This first release is a mvp just to put some mileage on the tedious mssql driver
 
 Please submit feedback via Github Issues
 
+## License
+
+MIT
