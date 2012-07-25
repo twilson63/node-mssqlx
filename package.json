@@ -23,5 +23,12 @@
   },
   "bin": {
     "mssqlx": "./bin/mssqlx"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twilson63/node-mssqlx.git"
   }
 }
