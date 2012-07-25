@@ -1,7 +1,7 @@
 {
-  "name": "mssql",
+  "name": "mssqlx",
   "version": "0.0.1",
-  "description": "Microsoft SQL Server Command Line Interface",
+  "description": "NodeJs Microsoft SQL Server Command Line Interface",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -20,5 +20,8 @@
   "devDependencies": {
     "mocha": "*",
     "should": "*"
+  },
+  "bin": {
+    "mssqlx": "./bin/mssqlx"
   }
 }
