@@ -1,0 +1,8 @@
+{
+  "production": {
+    "server": "174.129.140.194",
+    "userName": "cpadmin",
+    "password": "stars",
+    "options": { "database": "cph" }
+  }
+}

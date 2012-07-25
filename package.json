@@ -1,0 +1,24 @@
+{
+  "name": "mssql",
+  "version": "0.0.1",
+  "description": "Microsoft SQL Server Command Line Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "MSSQL",
+    "CLI"
+  ],
+  "author": "Tom Wilson",
+  "license": "MIT",
+  "dependencies": {
+    "event-stream": "~2.1.8",
+    "tedious": "0.0.7",
+    "nconf": "~0.6.4"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
